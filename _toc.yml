@@ -3,7 +3,17 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Preface
+    chapters:
+    - file: docs/Preface.md
+    - file: docs/Howto.md
+    - file: docs/Introduction.md
+      sections:
+      - file: docs/Intro/Genesis.md
+      - file: docs/Intro/Exodus.md
+  - caption: The Old Testament
+    chapters:
+    - file: docs/The_Old_Testament/Genesis/Genesis.md
+      sections:
+      - file: docs/The_Old_Testament/Genesis/Chapter_001.md
