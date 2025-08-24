@@ -12,3 +12,13 @@
 1. And God called the firmament Heaven. And the evening and the morning were the second day.
 1. And God said, Let the waters under the heaven be gathered together unto one place, and let the dry *land* appear; and it was so.
 1. And God called dry *land* Earth; and the gathering together of the waters called he Seas; and God saw that it *was* good.
+1. And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
+1. And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed *was* in itself, after hid kind: and God saw that *it was* good.
+1. And the evening and the morning were the third day.
+1. And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
+1. and let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
+1. And God made two great lights; the greater light to rule the day, and the less light to rule the night: *he made* the stars also.
+1. And God set them in the firmament of the heaven to give light upon the earth,
+1. and to rule over the day and over the night, and to divide the light from the darkness: and God saw that *it was* good.
+1. And the evening and the morning were the fourth day.
+1. And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl *that* may fly above the earth in the open firmament of heaven.
