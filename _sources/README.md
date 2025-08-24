@@ -1,3 +1,9 @@
 # Bible in Markdown
 
-My journey in Christianity
+My journey in Christianity, by typsetting the Holy Bible one verse at a time.
+
+King James Version
+
+1611
+
+https://cheneuwo.github.io/Bible-in-Markdown/intro.html
