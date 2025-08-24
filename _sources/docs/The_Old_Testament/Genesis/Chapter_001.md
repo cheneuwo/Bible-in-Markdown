@@ -22,4 +22,5 @@
 1. and to rule over the day and over the night, and to divide the light from the darkness: and God saw that *it was* good.
 1. And the evening and the morning were the fourth day.
 1. And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl *that* may fly above the earth in the open firmament of heaven.
-1. And God created great whales, and every living creature that moveth, which the waters brought borth abundantly, after their kind, and every winged fowl after his hind: and God saw that *it was* good.
+1. And God created great whales, and every living creature that moveth, which the waters brought borth abundantly, after their kind, and every winged fowl after his kind: and God saw that *it was* good.
+1. And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
