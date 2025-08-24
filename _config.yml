@@ -4,7 +4,7 @@
 title: Bible in Markdown
 author: Elvis C. S. Chen
 copyright: "2025"  # Copyright year to be placed in the footer
-logo: logo.png
+logo: imgs\cross_olive_wood_small.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
