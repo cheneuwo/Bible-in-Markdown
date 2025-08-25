@@ -19,20 +19,52 @@ parts:
       - file: docs/The_Old_Testament/Genesis/Chapter_001.md
       - file: docs/The_Old_Testament/Genesis/Chapter_002.md
       - file: docs/The_Old_Testament/Genesis/Chapter_003.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_004.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_005.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_006.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_007.md
       - file: docs/The_Old_Testament/Genesis/Chapter_008.md
       - file: docs/The_Old_Testament/Genesis/Chapter_009.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_010.md
       - file: docs/The_Old_Testament/Genesis/Chapter_011.md
       - file: docs/The_Old_Testament/Genesis/Chapter_012.md
       - file: docs/The_Old_Testament/Genesis/Chapter_013.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_014.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_015.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_016.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_017.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_018.md
       - file: docs/The_Old_Testament/Genesis/Chapter_019.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_020.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_021.md
       - file: docs/The_Old_Testament/Genesis/Chapter_022.md
       - file: docs/The_Old_Testament/Genesis/Chapter_023.md
       - file: docs/The_Old_Testament/Genesis/Chapter_024.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_025.md
       - file: docs/The_Old_Testament/Genesis/Chapter_026.md
       - file: docs/The_Old_Testament/Genesis/Chapter_027.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_028.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_029.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_030.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_031.md
       - file: docs/The_Old_Testament/Genesis/Chapter_032.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_033.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_034.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_035.md
       - file: docs/The_Old_Testament/Genesis/Chapter_036.md
       - file: docs/The_Old_Testament/Genesis/Chapter_037.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_038.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_039.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_040.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_041.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_042.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_043.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_044.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_045.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_046.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_047.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_048.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_049.md
       - file: docs/The_Old_Testament/Genesis/Chapter_050.md
   - caption: Who's Who in the Bible
     chapters:
