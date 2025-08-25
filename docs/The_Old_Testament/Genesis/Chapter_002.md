@@ -5,12 +5,12 @@
 1. And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
 
 ## MAN IN THE GARDEN OF EDEN
-4. There *are* the generations of the heavens and of the earth when they were created, in the day that the Lord God made the earth and the heavens,
-4. and every plant of the field before it was in the earth, and every herb of the field before it grew: for the Lord God had not caused it to rain upon the earth, and *there was* not a man to till the ground.
+4. There *are* the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,
+4. and every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and *there was* not a man to till the ground.
 4. But there went up a mist from the earth, and watered the whole face of the ground.
-4. And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
-4. And Lord God planted a garden eastward in Eden; and there he put the man whom he had formed.
-4. And out of the ground made the Lord God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.
+4. And the LORD God formed man of the dust *of* the ground, and breathed into his nostrils the breath of life; and man became a living soul.
+4. And LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.
+4. And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.
 4. And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.
 
 ```{figure} ./../../../imgs/Old/Genesis/Chapter_002/map.png
