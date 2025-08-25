@@ -18,3 +18,4 @@ parts:
       sections:
       - file: docs/The_Old_Testament/Genesis/Chapter_001.md
       - file: docs/The_Old_Testament/Genesis/Chapter_002.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_003.md
