@@ -19,3 +19,8 @@ parts:
       - file: docs/The_Old_Testament/Genesis/Chapter_001.md
       - file: docs/The_Old_Testament/Genesis/Chapter_002.md
       - file: docs/The_Old_Testament/Genesis/Chapter_003.md
+  - caption: Who's Who in the Bible
+    chapters:
+    - file: docs/Who_is_Who_in_Bible/N/N.md
+      sections:
+      - file: docs/Who_is_Who_in_Bible/N/Noah.md
