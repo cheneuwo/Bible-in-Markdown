@@ -1,0 +1,2 @@
+(GENESIS_26)=
+# CHAPTER 26
