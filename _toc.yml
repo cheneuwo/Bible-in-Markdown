@@ -19,6 +19,21 @@ parts:
       - file: docs/The_Old_Testament/Genesis/Chapter_001.md
       - file: docs/The_Old_Testament/Genesis/Chapter_002.md
       - file: docs/The_Old_Testament/Genesis/Chapter_003.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_008.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_009.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_011.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_012.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_013.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_019.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_022.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_023.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_024.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_026.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_027.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_032.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_036.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_037.md
+      - file: docs/The_Old_Testament/Genesis/Chapter_050.md
   - caption: Who's Who in the Bible
     chapters:
     - file: docs/Who_is_Who_in_Bible/A/A.md
