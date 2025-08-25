@@ -355,5 +355,22 @@
 			<coordinates>37.44012377173278,41.5487756999445,-343.5661961905435</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark id="00E6ED24C23A168B5D87">
+		<name>(Persian Gulf)</name>
+		<LookAt>
+			<longitude>39.1944574723209</longitude>
+			<latitude>33.36836240943097</latitude>
+			<altitude>126.080104981998</altitude>
+			<heading>14.11374283820552</heading>
+			<tilt>31.24159935443285</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3183932.299385369</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>49.03917151510272,28.84807352823942,165.9774755033495</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
