@@ -38,7 +38,7 @@ Noah releasing the dove; a 14th-century mosaic from the cathedral of San Marco i
 ---
 name: ivory_Noah_sacrifice
 ---
-Noah's sacrifice, a Byzantine ivory carving from the cathedral of San Matteo in Salerno, Italy. ([Image courtesy](https://photothek.khi.fi.it/documents/oak/00000300) **&copy;Photothek des Kunsthistorischen Instituts in Florenz – Max-Planck-Institut**. Permission for private use obtained, see [here for Copyright Information](https://photothek.khi.fi.it/cms/home/copyright/). Accessed on August 25, 2025.)
+Noah's sacrifice, a Byzantine ivory carving from the cathedral of San Matteo in Salerno, Italy. ([Image courtesy](https://photothek.khi.fi.it/documents/oak/00000300) **&copy;Photothek des Kunsthistorischen Instituts in Florenz – Max-Planck-Institut**. Permission for private use obtained, refer [here for Copyright Information](https://photothek.khi.fi.it/cms/home/copyright/). Accessed on August 25, 2025.)
 ```
 
 
