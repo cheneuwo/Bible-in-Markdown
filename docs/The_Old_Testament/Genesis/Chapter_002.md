@@ -15,6 +15,22 @@
 8. And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.
 (GENESIS_2_10)=
 10. And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.
+10. The name of the first *is* Pison: that *is* it which compasseth the whole land of Hav'ilah, where *there is* gold;
+10. and the gold of that land *is* good: there *is* bdellium and the onyx stone.
+10. And the name of the second river is Gihon: the same *is* it that compasseth the while land of Ethiopia.
+10. And the name of the third river is Hid'dekel: that *is* it which goeth toward the east of Assyria. And the fourth river *is* Euphra'tes.
+10. And the LORD God took the man, and put him into the garden of Eden to dress it and keep it.
+10. And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:
+10. but of the tree of knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.
+10. And the LORD God said, *It is* not good that the man should be alone; I will make him a help meet for him.
+10. And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that *was* the name thereof.
+10. And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found a help meet for him.
+10. And the LORD God caused a deep sleep to fall upon Adam, and he slept; and he took one of his ribs, and closed up the flesh instead thereof.
+10. And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man. 
+10. And Adam said, There *is* now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
+10. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
+10. And they were both naked, the man and his wife, and were not shamed.
+
 
 ```{figure} ./../../../imgs/Old/Genesis/Chapter_002/map.png
 ---
