@@ -2,7 +2,8 @@
 # Noah
 
 (no'uh) HEBREW: NOAH
-*possibly "to rest"
+
+*possibly "to rest"*
 
 
 
