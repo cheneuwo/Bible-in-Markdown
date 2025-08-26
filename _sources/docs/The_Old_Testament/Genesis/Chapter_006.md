@@ -1,0 +1,2 @@
+(GENESIS_6)=
+# CHAPTER 6
