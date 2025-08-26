@@ -71,6 +71,10 @@ parts:
     - file: docs/Who_is_Who_in_Bible/A/A.md
       sections:
       - file: docs/Who_is_Who_in_Bible/A/Abraham.md
+      - file: docs/Who_is_Who_in_Bible/A/Adam.md
+    - file: docs/Who_is_Who_in_Bible/D/D.md
+      sections:
+      - file: docs/Who_is_Who_in_Bible/D/Daniel.md
     - file: docs/Who_is_Who_in_Bible/E/E.md
       sections:
       - file: docs/Who_is_Who_in_Bible/E/Esau.md
@@ -80,7 +84,11 @@ parts:
     - file: docs/Who_is_Who_in_Bible/J/J.md
       sections:
       - file: docs/Who_is_Who_in_Bible/J/Jacob.md
+      - file: docs/Who_is_Who_in_Bible/J/Job.md
       - file: docs/Who_is_Who_in_Bible/J/Joseph.md
+    - file: docs/Who_is_Who_in_Bible/L/L.md
+      sections:
+      - file: docs/Who_is_Who_in_Bible/L/Lamech.md
     - file: docs/Who_is_Who_in_Bible/N/N.md
       sections:
       - file: docs/Who_is_Who_in_Bible/N/Noah.md
