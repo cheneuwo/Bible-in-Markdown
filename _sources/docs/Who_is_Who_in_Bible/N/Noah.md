@@ -30,7 +30,7 @@ As humanity drowns in the Flood below, Noah -- safely aboard his ark -- reaches 
 ---
 name: mosaic_noah_dove
 ---
-Noah releasing the dove; a 14th-century mosaic from the cathedral of San Marco in Venice. ([Image courtesy](https://commons.wikimedia.org/wiki/File:Noah_mosaic.JPG) of **Wikipedia**, Public Domain. Accessed on August 25, 2025.)
+Noah releasing the dove; a 14th-century mosaic from [the cathedral of San Marco in Venice](http://www.basilicasanmarco.it/basilica/mosaici/il-patrimonio-musivo/antico-testamento/?lang=en). ([Image courtesy](https://commons.wikimedia.org/wiki/File:Noah_mosaic.JPG) of **Wikipedia**, Public Domain. Accessed on August 25, 2025.)
 ```
 
 
