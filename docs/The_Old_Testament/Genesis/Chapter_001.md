@@ -29,8 +29,10 @@
 1. And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping things, and beast of the earth after his kind: and it was so.
 1. And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that *it was* good.
 1. And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
-1. So God created man in his *own* image, in the image of God created he him; male and female created he them.
-1. And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
+(GENESIS_1_27)=
+27. So God created man in his *own* image, in the image of God created he him; male and female created he them.
+(GENESIS_1_28)=
+28. And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 1. And God said, Behold, I have given you every herb bearing seed, which *is* upon the face of all the earth, and every tree, in which *is* the fruit of a tree yielding seed; to you it shall be for meat.
 1. And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein *there is* life, *I have given* every green herb for meat: and it was so.
 1. And God saw every thing that he had made, and behold, *it was* very good. And the evening and the moring were the sixth day.
