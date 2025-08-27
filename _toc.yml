@@ -66,6 +66,11 @@ parts:
       - file: docs/The_Old_Testament/Genesis/Chapter_048.md
       - file: docs/The_Old_Testament/Genesis/Chapter_049.md
       - file: docs/The_Old_Testament/Genesis/Chapter_050.md
+  - caption: The New Testament
+    chapters:
+    - file: docs/The_New_Testament/Acts/Acts.md
+      sections:
+      - file: docs/The_New_Testament/Acts/Chapter_009.md
   - caption: Who's Who in the Bible
     chapters:
     - file: docs/Who_is_Who_in_Bible/A/A.md
@@ -74,6 +79,7 @@ parts:
       - file: docs/Who_is_Who_in_Bible/A/Abraham.md
       - file: docs/Who_is_Who_in_Bible/A/Adam.md
       - file: docs/Who_is_Who_in_Bible/A/Adoni-Zedek.md
+      - file: docs/Who_is_Who_in_Bible/A/Aeneas.md
     - file: docs/Who_is_Who_in_Bible/B/B.md
     - file: docs/Who_is_Who_in_Bible/C/C.md
       sections:
@@ -114,6 +120,7 @@ parts:
     - file: docs/Who_is_Who_in_Bible/P/P.md
       sections:
       - file: docs/Who_is_Who_in_Bible/P/Paul.md
+      - file: docs/Who_is_Who_in_Bible/P/Peter.md
     - file: docs/Who_is_Who_in_Bible/Q/Q.md
     - file: docs/Who_is_Who_in_Bible/R/R.md
     - file: docs/Who_is_Who_in_Bible/S/S.md
