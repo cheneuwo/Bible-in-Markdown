@@ -80,10 +80,12 @@ parts:
       - file: docs/Who_is_Who_in_Bible/A/Adam.md
       - file: docs/Who_is_Who_in_Bible/A/Adoni-Zedek.md
       - file: docs/Who_is_Who_in_Bible/A/Aeneas.md
+      - file: docs/Who_is_Who_in_Bible/A/Agabus.md
     - file: docs/Who_is_Who_in_Bible/B/B.md
     - file: docs/Who_is_Who_in_Bible/C/C.md
       sections:
       - file: docs/Who_is_Who_in_Bible/C/Cain.md
+      - file: docs/Who_is_Who_in_Bible/C/Claudius.md
     - file: docs/Who_is_Who_in_Bible/D/D.md
       sections:
       - file: docs/Who_is_Who_in_Bible/D/Daniel.md
