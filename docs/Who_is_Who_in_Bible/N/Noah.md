@@ -52,7 +52,7 @@ Noah releasing the dove; a 14th-century mosaic from [the cathedral of San Marco 
 ## DELIVERANCE, OLD AND NEW
 
 
-## The Bablonian Noah
+## THE BABLONIAN NOAH
 
 **Flood stories were** common among the literary traditions of Israel's neighbors, but the most famous ancient parallel to the biblical story of Noah occurs in the Babylonian [epic of Gilgamesh](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh). When the hero [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) goes on a journey to discover the secret of eternal life, he encounters a man name [Utnapishtim](https://en.wikipedia.org/wiki/Utnapishtim), who had been warned that the god [Enlil](https://en.wikipedia.org/wiki/Enlil) intended to drown humankind because the people gave him insomnia.
 
@@ -64,3 +64,8 @@ name: carving_noah_Gilgamesh
 ---
 A seventh-century B.C. stone carving of Gilgamesh. (Louvre Meseum, Public domain, [Image courtesy](https://en.wikipedia.org/wiki/Gilgamesh#/media/File:Hero_lion_Dur-Sharrukin_Louvre_AO19862.jpg), via **Wikipedia Commons**. Accessed on August 25, 2025.)
 ```
+## THE GENERATIONS OF ADAM
+
+**Humanity's history** from creation to the Flood, {ref}`Adam<WHO_Adam>` to Noah, is abridged in {ref}`Genesis 5<GENESIS_5>`. The recitation of names cover 1,656 years -- that is, from the beginning of {ref}`Adam<WHO_Adam>`'s 930-year lifespan to the great deluge that occurred when Noah was 600 years old.
+
+Like {ref}`Genesis<GENESIS>`, Babylonian tradition records ten heroes before the Floow, the seventh of which -- like {ref}`Enoch<WHO_Enoch>` in the Bible -- was spared death, called to walk with God in heaven. Although the ages assigned the descendants of {ref}`Adam<WHO_Adam>` range from {ref}`Enoch<WHO_Enoch>`'s 365 years to {ref}`Methuselah<WHO_Methuselah>`'s record longevity of 969 years, they are brief in comparison with ages Babylonians assigned their heroic ancestors. The ten biblical names are repeated with two variations, in {ref}`Luke<LUKE>` {ref}`3<LUKE_3>`:{ref}`36<LUKE_3_36>`-{ref}`38<LUKE_3_38>`.

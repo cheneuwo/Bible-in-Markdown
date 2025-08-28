@@ -74,6 +74,7 @@ parts:
     - file: docs/The_New_Testament/Luke/Luke.md
       sections:
       - file: docs/The_New_Testament/Luke/Chapter_003.md
+      - file: docs/The_New_Testament/Luke/Chapter_005.md
     - file: docs/The_New_Testament/Acts/Acts.md
       sections:
       - file: docs/The_New_Testament/Acts/Chapter_009.md
@@ -101,6 +102,7 @@ parts:
       - file: docs/Who_is_Who_in_Bible/D/Daniel.md
     - file: docs/Who_is_Who_in_Bible/E/E.md
       sections:
+      - file: docs/Who_is_Who_in_Bible/E/Enoch.md
       - file: docs/Who_is_Who_in_Bible/E/Esau.md
       - file: docs/Who_is_Who_in_Bible/E/Eve.md
     - file: docs/Who_is_Who_in_Bible/F/F.md
@@ -126,6 +128,8 @@ parts:
       - file: docs/Who_is_Who_in_Bible/L/Lamech.md
       - file: docs/Who_is_Who_in_Bible/L/Luke.md
     - file: docs/Who_is_Who_in_Bible/M/M.md
+      sections:
+      - file: docs/Who_is_Who_in_Bible/M/Methuselah.md
     - file: docs/Who_is_Who_in_Bible/N/N.md
       sections:
       - file: docs/Who_is_Who_in_Bible/N/Noah.md
