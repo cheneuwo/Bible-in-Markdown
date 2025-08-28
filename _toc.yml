@@ -96,6 +96,7 @@ parts:
     - file: docs/Who_is_Who_in_Bible/C/C.md
       sections:
       - file: docs/Who_is_Who_in_Bible/C/Cain.md
+      - file: docs/Who_is_Who_in_Bible/C/Canaan.md
       - file: docs/Who_is_Who_in_Bible/C/Claudius.md
     - file: docs/Who_is_Who_in_Bible/D/D.md
       sections:
