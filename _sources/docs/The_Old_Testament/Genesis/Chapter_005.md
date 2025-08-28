@@ -1,2 +1,5 @@
 (GENESIS_5)=
 # CHAPTER 5
+
+(GENESIS_5_4)=
+4.
