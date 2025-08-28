@@ -66,6 +66,9 @@ parts:
       - file: docs/The_Old_Testament/Genesis/Chapter_048.md
       - file: docs/The_Old_Testament/Genesis/Chapter_049.md
       - file: docs/The_Old_Testament/Genesis/Chapter_050.md
+    - file: docs/The_Old_Testament/Chronicles_1/Chronicles_1.md
+      sections:
+      - file: docs/The_Old_Testament/Chronicles_1/Chapter_001.md
   - caption: The New Testament
     chapters:
     - file: docs/The_New_Testament/Acts/Acts.md
@@ -92,6 +95,7 @@ parts:
     - file: docs/Who_is_Who_in_Bible/E/E.md
       sections:
       - file: docs/Who_is_Who_in_Bible/E/Esau.md
+      - file: docs/Who_is_Who_in_Bible/E/Eve.md
     - file: docs/Who_is_Who_in_Bible/F/F.md
     - file: docs/Who_is_Who_in_Bible/G/G.md
     - file: docs/Who_is_Who_in_Bible/H/H.md
