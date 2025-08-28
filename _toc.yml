@@ -77,6 +77,7 @@ parts:
     - file: docs/The_New_Testament/Acts/Acts.md
       sections:
       - file: docs/The_New_Testament/Acts/Chapter_009.md
+    - file: docs/The_New_Testament/Jude/Jude.md
   - caption: Who's Who in the Bible
     chapters:
     - file: docs/Who_is_Who_in_Bible/A/A.md
