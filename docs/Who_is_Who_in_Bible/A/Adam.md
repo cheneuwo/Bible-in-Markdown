@@ -50,4 +50,11 @@ Reflection on the meaning of Adam's fall became even more important to the devel
 
 Much more significant, however, is the Christian portrayal of the sinful, fallen Adam symbolically linked with {ref}`Jesus<WHO_Jesus>`. **{ref}`Paul<WHO_Paul>`** in particular saw Adam as the father of the old humanity, as the originator of sin and death. By contrast, {ref}`Jesus<WHO_Jesus>` made possible a new humanity. He was superior to Adam because he would prevail over the consequences of sin through the grace of God. If death sprang from Adam because of his act of disobedience in the garden, life now sprang from {ref}`Jesus<WHO_Jesus>` because he obeyed the will of God and thus earned the salvation of humankind.
 
+```{figure} ./../../../imgs/Who/A/Adam-Eve-Ramboux.jpg
+---
+name: Adam_Eve_Ramboux
+---
+Expelled from Eden (background), Adam is forced to till the soil as Eve assumes the burdens of motherhood. ([Image courtesy](https://en.wikipedia.org/wiki/Johann_Anton_Ramboux#/media/File:Adam-Eve-Ramboux.jpg) of **Wikipedia**,  Public Domain. Accessed on August 28, 2025.)
+```
+
 This essential distinction between the first Adam and {ref}`Jesus<WHO_Jesus>` as the last Adam is used by {ref}`Paul<WHO_Paul>` to explain the resurrection of all believers. "For all in Adam all die," he wrote, "so also in christ shall be made alive" ({ref}`1 Cor. 15:22<CORINTHIANS_1_15_22>`). The comparison helps explain two inherent aspects of resurrection. In the first place, the linkage with Adam's sin and death showed that the soul would have to have a body for its resurrection to take place. Second, the coming of {ref}`Jesus<WHO_Jesus>` that the body would be new and spiritual rather than flesh and blood of the old mortality. According to {ref}`Paul<WHO_Paul>`, "The first man was from the earth, a man of dust; the second man is from heaven" ({ref}`1 Cor. 15:47<CORINTHIANS_1_15_47>`).
