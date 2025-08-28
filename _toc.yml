@@ -71,6 +71,9 @@ parts:
       - file: docs/The_Old_Testament/Chronicles_1/Chapter_001.md
   - caption: The New Testament
     chapters:
+    - file: docs/The_New_Testament/Luke/Luke.md
+      sections:
+      - file: docs/The_New_Testament/Luke/Chapter_003.md
     - file: docs/The_New_Testament/Acts/Acts.md
       sections:
       - file: docs/The_New_Testament/Acts/Chapter_009.md
