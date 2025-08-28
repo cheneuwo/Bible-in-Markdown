@@ -113,6 +113,7 @@ parts:
     - file: docs/Who_is_Who_in_Bible/I/I.md
       sections:
       - file: docs/Who_is_Who_in_Bible/I/Isaac.md
+      - file: docs/Who_is_Who_in_Bible/I/Isaiah.md
     - file: docs/Who_is_Who_in_Bible/J/J.md
       sections:
       - file: docs/Who_is_Who_in_Bible/J/Jacob.md
