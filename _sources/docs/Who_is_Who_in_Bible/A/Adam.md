@@ -9,7 +9,7 @@
 ---
 name: Adam_story
 ---
-Adam's story is recapitulated in this 15th-century manuscript illumination: the creation of man and then woman from his rib (left background), the temptation by the serpent (center), the expulsion from the garden (right background). ([Image courtesy](https://www.meisterdrucke.uk/fine-art-prints/Zanobi-di-Benedetto-Strozzi/838351/Unknown-Image.html), Public Domain. Accessed on August 27, 2025.)
+Adam's story is recapitulated in this 15th-century manuscript illumination: the creation of man and then woman from his rib (left background), the temptation by the serpent (center), the expulsion from the garden (right background). (Public domain, [Image courtesy](https://www.meisterdrucke.uk/fine-art-prints/Zanobi-di-Benedetto-Strozzi/838351/Unknown-Image.html). Accessed on August 27, 2025.)
 ```
 
 The book of {ref}`Genesis<GENESIS>` provides two versions of the creation of the first man, Adam. In the {ref}`first chapter<GENESIS_1>`, a male and female are created "in the image of God' ({ref}`Gen. 1:27<GENESIS_1_27>`) on the sixth day of creation. Blessed and set above all of the other animals, this pair is given a specific command: "be fruitful and multiply, and fill the earth and subdue it; and have dominion over the fish of the sea and over the birds of the air and over every living thing that moves upon the earth" ({ref}`Gen. 1:28<GENESIS_1_28>`). Furthermore, God makes clear that sufficient food has been provided for all living creatures, humans included, in the form of green plants and fruit-bearing trees. The world thus begins without the need to struggle for survival, with all of creation in perfect balance and harmony.
@@ -24,7 +24,7 @@ Concluding that "it is not good that the man should be alone" ({ref}`Gen. 2:18<G
 ---
 name: Eden_paradise
 ---
-Adam and Eve in their earthly paradise; an illumination from a 15th-century devotional book. ([Image courtesy](https://commons.wikimedia.org/wiki/File:Folio_25v_-_The_Garden_of_Eden.jpg) of **Wikimedia**, Public Domain. Accessed on August 26, 2025.)
+Adam and Eve in their earthly paradise; an illumination from a 15th-century devotional book. (Public domain, [Image courtesy](https://commons.wikimedia.org/wiki/File:Folio_25v_-_The_Garden_of_Eden.jpg), via  **Wikimedia Commons**. Accessed on August 26, 2025.)
 ```
 
 These two separate versions of Adam's creation contain significant theological points. In the first, the human is created on the same day as the animals but is purposely set apart, infused with the divine spirit, and given dominance over earthly creation. In both, he is given a life of ease and abundance, blessed as the favorite of the Lord God of the universe.
@@ -41,7 +41,7 @@ After the moral disaster of Adam's fall, which would define the relationship of 
 ---
 name: Adam_Eve_stained_glass_Edmundsbury
 ---
-The four rivers of Eden appear in this stained-glass (center) depiction of Adam and Eve. The stain glass is from the west window of [St. Edmundsbury Cathedral](https://en.wikipedia.org/wiki/St_Edmundsbury_Cathedral). ([Image courtesy](https://commons.wikimedia.org/wiki/File:St_Edmundsbury_cathedral,_Bury_St_Edmunds_-_Victorian_glass_-_geograph.org.uk_-_2048091.jpg) of **Wikimedia**,  licensed under [the Creative Commons Attribution-Share Alike 2.0 Generic](https://creativecommons.org/licenses/by-sa/2.0/deed.en) license. Attribution: St Edmundsbury cathedral, Bury St Edmunds - Victorian glass by Evelyn Simak. Accessed on August 26, 2025.)
+The four rivers of Eden appear in this stained-glass (center) depiction of Adam and Eve. The stain glass is from the west window of [St. Edmundsbury Cathedral](https://en.wikipedia.org/wiki/St_Edmundsbury_Cathedral). ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), [Image courtesy](https://commons.wikimedia.org/wiki/File:St_Edmundsbury_cathedral,_Bury_St_Edmunds_-_Victorian_glass_-_geograph.org.uk_-_2048091.jpg), via **Wikimedia Commons**. Attribution: St Edmundsbury cathedral, Bury St Edmunds - Victorian glass by Evelyn Simak. Accessed on August 26, 2025.)
 ```
 
 In the centuries after the Babylonian exile, however, the story of Adam and his sin began to intrigue Jewish thinkers who were trying to understand why God had allowed their nation to suffer defeat and captivity. One result was that some Jewish religious writers began to magnify his glory, even describing him as a second angel. He was thought to surpass ordinary human being in every conceivable way. Indeed, the very concept of the fall was rejected in favor of the believe that he was actually a heavenly figure who is successively incarnated in human form throughout history. Another trend in this speculative pre-Christian scholarship was very different: a newly explicit stress on the disastrous effect of Adam's sin on all generations to follow him, even suggesting that his fall was the origin of all human evil.
@@ -54,7 +54,7 @@ Much more significant, however, is the Christian portrayal of the sinful, fallen
 ---
 name: Adam_Eve_Ramboux
 ---
-Expelled from Eden (background), Adam is forced to till the soil as Eve assumes the burdens of motherhood. ([Image courtesy](https://en.wikipedia.org/wiki/Johann_Anton_Ramboux#/media/File:Adam-Eve-Ramboux.jpg) of **Wikipedia**,  Public Domain. Accessed on August 28, 2025.)
+Expelled from Eden (background), Adam is forced to till the soil as Eve assumes the burdens of motherhood. (Johann Anton Ramboux (1790-1866), Public domain, [image courtesy](https://en.wikipedia.org/wiki/Johann_Anton_Ramboux#/media/File:Adam-Eve-Ramboux.jpg), via **Wikimedia Commons**. Accessed on August 28, 2025.)
 ```
 
 This essential distinction between the first Adam and {ref}`Jesus<WHO_Jesus>` as the last Adam is used by {ref}`Paul<WHO_Paul>` to explain the resurrection of all believers. "For all in Adam all die," he wrote, "so also in christ shall be made alive" ({ref}`1 Cor. 15:22<CORINTHIANS_1_15_22>`). The comparison helps explain two inherent aspects of resurrection. In the first place, the linkage with Adam's sin and death showed that the soul would have to have a body for its resurrection to take place. Second, the coming of {ref}`Jesus<WHO_Jesus>` that the body would be new and spiritual rather than flesh and blood of the old mortality. According to {ref}`Paul<WHO_Paul>`, "The first man was from the earth, a man of dust; the second man is from heaven" ({ref}`1 Cor. 15:47<CORINTHIANS_1_15_47>`).
