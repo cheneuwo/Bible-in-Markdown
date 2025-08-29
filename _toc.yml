@@ -78,6 +78,12 @@ parts:
     - file: docs/The_Old_Testament/Chronicles_1/Chronicles_1.md
       sections:
       - file: docs/The_Old_Testament/Chronicles_1/Chapter_001.md
+    - file: docs/The_Old_Testament/Isaiah/Isaiah.md
+      sections:
+      - file: docs/The_Old_Testament/Isaiah/Chapter_054.md
+    - file: docs/The_Old_Testament/Ezekiel/Ezekiel.md
+      sections:
+      - file: docs/The_Old_Testament/Ezekiel/Chapter_014.md
   - caption: The New Testament
     chapters:
     - file: docs/The_New_Testament/Luke/Luke.md
