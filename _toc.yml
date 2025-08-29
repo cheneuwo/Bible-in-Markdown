@@ -13,6 +13,8 @@ parts:
       sections:
       - file: docs/Intro/Genesis.md
       - file: docs/Intro/Exodus.md
+      - file: docs/Intro/Leviticus.md
+      - file: docs/Intro/Acts.md
   - caption: The Old Testament
     chapters:
     - file: docs/The_Old_Testament/Genesis/Genesis.md
@@ -67,6 +69,12 @@ parts:
       - file: docs/The_Old_Testament/Genesis/Chapter_048.md
       - file: docs/The_Old_Testament/Genesis/Chapter_049.md
       - file: docs/The_Old_Testament/Genesis/Chapter_050.md
+    - file: docs/The_Old_Testament/Exodus/Exodus.md
+      sections:
+      - file: docs/The_Old_Testament/Exodus/Chapter_001.md
+    - file: docs/The_Old_Testament/Leviticus/Leviticus.md
+      sections:
+      - file: docs/The_Old_Testament/Leviticus/Chapter_001.md
     - file: docs/The_Old_Testament/Chronicles_1/Chronicles_1.md
       sections:
       - file: docs/The_Old_Testament/Chronicles_1/Chapter_001.md

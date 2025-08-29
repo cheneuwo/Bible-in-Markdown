@@ -4,3 +4,5 @@
 
 
 {ref}`Genesis<INTRO_GENESIS>`
+{ref}`Exodus<INTRO_EXODUS>`
+{ref}`Leviticus<INTRO_LEVITICUS>`
