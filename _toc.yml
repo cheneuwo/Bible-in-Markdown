@@ -86,6 +86,9 @@ parts:
       - file: docs/The_Old_Testament/Ezekiel/Chapter_014.md
   - caption: The New Testament
     chapters:
+    - file: docs/The_New_Testament/Matthew/Matthew.md
+      sections:
+      - file: docs/The_New_Testament/Matthew/Chapter_024.md
     - file: docs/The_New_Testament/Luke/Luke.md
       sections:
       - file: docs/The_New_Testament/Luke/Chapter_003.md
@@ -96,6 +99,9 @@ parts:
     - file: docs/The_New_Testament/Corinthians_1/Corinthians_1.md
       sections:
       - file: docs/The_New_Testament/Corinthians_1/Chapter_015.md
+    - file: docs/The_New_Testament/Hebrews/Hebrews.md
+      sections:
+      - file: docs/The_New_Testament/Hebrews/Chapter_011.md
     - file: docs/The_New_Testament/Peter_1/Peter_1.md
       sections:
       - file: docs/The_New_Testament/Peter_1/Chapter_003.md
