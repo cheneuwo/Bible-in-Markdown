@@ -96,6 +96,9 @@ parts:
     - file: docs/The_New_Testament/Corinthians_1/Corinthians_1.md
       sections:
       - file: docs/The_New_Testament/Corinthians_1/Chapter_015.md
+    - file: docs/The_New_Testament/Peter_1/Peter_1.md
+      sections:
+      - file: docs/The_New_Testament/Peter_1/Chapter_003.md
     - file: docs/The_New_Testament/Jude/Jude.md
   - caption: Who's Who in the Bible
     chapters:
