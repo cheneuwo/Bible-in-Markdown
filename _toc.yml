@@ -8,6 +8,7 @@ parts:
     chapters:
     - file: docs/Preface.md
     - file: docs/Howto.md
+    - file: docs/Alphabetical.md
     - file: docs/Introduction.md
       sections:
       - file: docs/Intro/Genesis.md
