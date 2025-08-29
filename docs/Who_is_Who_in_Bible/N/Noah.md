@@ -56,6 +56,10 @@ The commands then given to Noah, supported by the implies connection with {ref}`
 
 ## SEEING HIS FATHER'S SHAME
 
+Yet the new beginning for the human race would not be without conflict and error. In his second major historical role, Noah discovered not only the process of making wine but also the hazards of overindulgence. When he drank to excess and passed out in his tent, his son {ref}`Ham<WHO_Ham>` discovered him naked and unconscious. No doubt smirking, {ref}`Ham<WHO_Ham>` ran off to share the jest with his brothers. More respectful, {ref}`Shem<WHO_Shem>` and {ref}`Japheth<WHO_Japheth>` walked backward into their father's tent, so that they would not add to his shame, and tossed a garment over him. As punishment for his gross insult to a parent, {ref}`Ham<WHO_Ham>` -- in his bibliocal passage referred to as **{ref}`Canaan<WHO_Canaan>`**, the name later given to {ref}`Ham<WHO_Ham>`'s fourth son -- was cursed: "{ref}`A slave of slaves shall he be to his brothers<GENESIS_9_25>`" ({ref}`Gen.<GENESIS>` {ref}`9<GENESIS_9>`:{ref}`25<GENESIS_9_25>`).
+
+Biblical scholars caution today's reader about the proper interpretation of this incident. From the ancient point of view, viniculture was considered fundamental to civilized living, and wine making was thought to be an appropriate use of the grape. Nor does the account in {ref}`Genesis<GENESIS>` criticize Noah for becoming intoxicated. In other words, the intent of the story is not to warn against drunkenness but to offer an explanation for the traditional Hebrew contempt for the [Canaanites](https://en.wikipedia.org/wiki/Canaan#Canaanites), their long-standing adversaries in the [Promised Land](https://en.wikipedia.org/wiki/Promised_Land). According to the Scriptures, {ref}`Ham<WHO_Ham>`'s descendants also included several other tribes that were later under the control of [Egypt](https://en.wikipedia.org/wiki/Egypt). In the Islamic tradition, {ref}`Ham<WHO_Ham>` is considered the ancestor of the [Copts of Egypt](https://en.wikipedia.org/wiki/Copts_in_Egypt), the [Berbers of North Africa](https://en.wikipedia.org/wiki/Berbers),and unidentified black people.
+
 ## DELIVERANCE, OLD AND NEW
 
 
