@@ -26,6 +26,7 @@ Following divine instructions, Noah constructed a huge ark out of [gopher wood](
 
 Seven days later, as God had warned, great torrents of rain began falling from skies and did not cease for a total of 40 days and nights. The landscape was obliterated, and every one of the sinful progeny of {ref}`Adam<WHO_Adam>` and **{ref}`Eve<WHO_Eve>`** was drowned. But as the waters inexorably rose and covered even the highest mountains, Noah and family remained safe, protected within the mammoth ark.
 
+
 ```{figure} ./../../../imgs/Who/N/Girona_Beatus,_folio_52v-53r_-_Noah's_ark.jpg
 ---
 name: illumination_noah
@@ -33,7 +34,16 @@ name: illumination_noah
 As humanity drowns in the Flood below, Noah -- safely aboard his ark -- reaches for the dove's olive leaf; a [tenth-centry manuscript illumination](https://en.wikipedia.org/wiki/Commentary_on_the_Apocalypse) painted by Emeterius (pupil of Magius) and by the nun [Ende](https://en.wikipedia.org/wiki/Ende_(artist)). (Ende and others, Public domain, [Image courtesy](https://commons.wikimedia.org/wiki/File:Girona_Beatus,_folio_52v-53r_-_Noah%27s_ark.jpg), via **Wikimedia Commons**. Accessed on August 25, 2025.)
 ```
 
-## SEEING HIS FATHER'S SHAME
+The Flood remained at full strength for 150 days, until "{ref}`God made a wind blow over the earth, and the waters subsided<GENESIS_8_1>`; {ref}`the fountains of the deep and the windows of heavens were closed, the rain from the heavens was restrained<GENESIS_8_2>`, {ref}`and the waters receded from the earth continually<GENESIS_8_3>`" ({ref}`Gen.<GENESIS>` {ref}`8<GENESIS_8>`:{ref}`1<GENESIS_8_1>`-{ref}`3<GENESIS_8_3>`). It took another 150 days for the water level to drop low enough to let the ark come to rest upon a mountain in the region of [Armenia](https://en.wikipedia.org/wiki/Armenia) known as [Ararat](https://en.wikipedia.org/wiki/Mount_Ararat#:~:text=Nevertheless%2C%20Ararat%20is%20traditionally%20considered,landing%20place%20during%20that%20time.). Yet 40 more days passed before Noah tested the situation by releasing a raven, which did not return. A week later, he sent out a dove, which came back because it could not find a dry spot to rest upon. Released again the following week, the dove returned with a fresh olive leaf in its beak, an indication that the flood-waters had subsided. When Noah sent out the dove a third time, seven days later, the bird did not return. As last, "{ref}`the face of the ground was dry<GENESIS_8_13>`" ({ref}`Gen.<GENESIS>` {ref}`8<GENESIS_8>`:{ref}`13<GENESIS_8_13>`).
+
+```{figure} ./../../../imgs/Who/N/Noah_mosaic.jpg
+---
+name: mosaic_noah_dove
+---
+Noah releasing the dove; a 14th-century mosaic from [the cathedral of San Marco in Venice](http://www.basilicasanmarco.it/basilica/mosaici/il-patrimonio-musivo/antico-testamento/?lang=en). (Anonymous Master, Public domain, [Image courtesy](https://commons.wikimedia.org/wiki/File:Noah_mosaic.JPG), via **Wikipedia Commons**. Accessed on August 25, 2025.)
+```
+
+The human and animal survivors left the ark, and Noah build an alter. After he had made a prodigious blood sacrifice that included every ritually clean animal and bird, God was pleased and promised that he would never again annihilate all living things, nor would the natural order of the seasons ever again be disrupted in such a catastrophic fasion. As token of his universal covenant with all human beings to come and all other living creatures as well, God placed a rainbow in the heavens. Interestingly, there is no specific word for "rainbow" in ancient Hebrew. Some biblical experts believe that the scriptural reference is a poetic use of the word "bow", the weapon. In that case, God can be seen as laying down his bow as a highly visible sign of his truce with humankind. To accent Noah's role as ancestor of the renewed human race, God repeated the edict he had given {ref}`Adam<WHO_Adam>` so many centuries before: "{ref}`Be fruitful and multiply, and full the earth<GENESIS_9_1>`" ({ref}`Gen.<GENESIS>` {ref}`9<GENESIS_9>`:{ref}`1<GENESIS_9_1>`). There is one significant contrast: {ref}`Adam<WHO_Adam>` and immediate descendants were vegetarians, but after the Flood, God said, "{ref}`every moving thing that lives shall be food for you; and as I gave you the green plants, I give you everything<GENESIS_9_3>`" ({ref}`Gen.<GENESIS>` {ref}`9<GENESIS_9>`:{ref}`3<GENESIS_9_3>`).
 
 ```{figure} ./../../../imgs/Who/N/fle0009827x_p.jpg
 ---
@@ -42,13 +52,14 @@ name: ivory_Noah_sacrifice
 Noah's sacrifice, a Byzantine ivory carving from the cathedral of San Matteo in Salerno, Italy. ([Image courtesy](https://photothek.khi.fi.it/documents/oak/00000300) **&copy;Photothek des Kunsthistorischen Instituts in Florenz – Max-Planck-Institut**. Permission for private use obtained, refer [here for Copyright Information](https://photothek.khi.fi.it/cms/home/copyright/). Accessed on August 25, 2025.)
 ```
 
+The commands then given to Noah, supported by the implies connection with {ref}`Adam<WHO_Adam>`, led to the development in Jewish tradition of the seven so-called [Noachide laws](https://en.wikipedia.org/wiki/Seven_Laws_of_Noah). Briefly stated, these include six proscriptions -- against [idolatry](https://en.wikipedia.org/wiki/Idolatry), [bloodshed](https://en.wikipedia.org/wiki/Murder), [blasphemy](https://en.wikipedia.org/wiki/List_of_capital_crimes_in_the_Torah), [theft](https://en.wikipedia.org/wiki/Theft), [sexual sins](https://en.wikipedia.org/wiki/Adultery), and [eating the flesh of a living animal](https://en.wikipedia.org/wiki/Eating_live_animals) -- and the charge to set up a [legal system](https://en.wikipedia.org/wiki/Judiciary). Because these seven concepts reflect divine commands to Noah and {ref}`Adam<WHO_Adam>`, the ancestors of all humankind, Jewish thinkers believed that they define moral obligations laid by God upon everyone, Jew and [Gentile](https://en.wikipedia.org/wiki/Gentile) alike. Therefore, Noah is seen in traditional rabbinical thought as a symbol of the unity of human beings throughout all generations. Indeed, the Scriptures stress that from Noah and his sons "{ref}`the whole earth was peopled<GENESIS_9_19>`" ({ref}`Gen.<GENESIS>` {ref}`9<GENESIS_9>`:{ref}`19<GENESIS_9_19>`).
 
-```{figure} ./../../../imgs/Who/N/Noah_mosaic.jpg
----
-name: mosaic_noah_dove
----
-Noah releasing the dove; a 14th-century mosaic from [the cathedral of San Marco in Venice](http://www.basilicasanmarco.it/basilica/mosaici/il-patrimonio-musivo/antico-testamento/?lang=en). (Anonymous Master, Public domain, [Image courtesy](https://commons.wikimedia.org/wiki/File:Noah_mosaic.JPG), via **Wikipedia Commons**. Accessed on August 25, 2025.)
-```
+## SEEING HIS FATHER'S SHAME
+
+Yet the new beginning for the human race would not be without conflict and error. In his second major historical role, Noah discovered not only the process of making wine but also the hazards of overindulgence. When he drank to excess and passed out in his tent, his son {ref}`Ham<WHO_Ham>` discovered him naked and unconscious. No doubt smirking, {ref}`Ham<WHO_Ham>` ran off to share the jest with his brothers. More respectful, {ref}`Shem<WHO_Shem>` and {ref}`Japheth<WHO_Japheth>` walked backward into their father's tent, so that they would not add to his shame, and tossed a garment over him. As punishment for his gross insult to a parent, {ref}`Ham<WHO_Ham>` -- in his bibliocal passage referred to as **{ref}`Canaan<WHO_Canaan>`**, the name later given to {ref}`Ham<WHO_Ham>`'s fourth son -- was cursed: "{ref}`A slave of slaves shall he be to his brothers<GENESIS_9_25>`" ({ref}`Gen.<GENESIS>` {ref}`9<GENESIS_9>`:{ref}`25<GENESIS_9_25>`).
+
+Biblical scholars caution today's reader about the proper interpretation of this incident. From the ancient point of view, viniculture was considered fundamental to civilized living, and wine making was thought to be an appropriate use of the grape. Nor does the account in {ref}`Genesis<GENESIS>` criticize Noah for becoming intoxicated. In other words, the intent of the story is not to warn against drunkenness but to offer an explanation for the traditional Hebrew contempt for the [Canaanites](https://en.wikipedia.org/wiki/Canaan#Canaanites), their long-standing adversaries in the [Promised Land](https://en.wikipedia.org/wiki/Promised_Land). According to the Scriptures, {ref}`Ham<WHO_Ham>`'s descendants also included several other tribes that were later under the control of [Egypt](https://en.wikipedia.org/wiki/Egypt). In the Islamic tradition, {ref}`Ham<WHO_Ham>` is considered the ancestor of the [Copts of Egypt](https://en.wikipedia.org/wiki/Copts_in_Egypt), the [Berbers of North Africa](https://en.wikipedia.org/wiki/Berbers),and unidentified black people.
+
 ## DELIVERANCE, OLD AND NEW
 
 
