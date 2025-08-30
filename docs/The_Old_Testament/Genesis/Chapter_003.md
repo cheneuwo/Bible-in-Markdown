@@ -1,5 +1,5 @@
 (GENESIS_3)=
-# CHAPTER 3
+# CHAPTER THREE
 
 ## MAN'S DISOBEDIENCE
 
@@ -16,19 +16,19 @@
 1. And he said, I heard thy voice in the garden, and I was afraid, because I *was* naked; and I hid myself.
 1. And he said, Who told thee that thou *was* naked? Hast thou eaten of the tree, whereof I commanded thee that thou shoudest not eat?
 1. And the man said, The woman whom thou gavest to *be* with me, she gave me of the tree, and I did eat.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
+1. And the LORD God said unto the women, What *is* this *that* thou has done? And the woman said, The serpent beguiled me, and I did eat.
+1. And the LORD God said unto the serpent, Because thou has done this, thou *art* cursed above all cattle, and above every beast' of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life;
+1. and I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his hell.
+1. Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring borth children; and thy desire *shall be* to thy husband, and he shall rule over thee.
+1. And unto {ref}`Adam<WHO_Adam>` he said, Because thou hast bearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed *is* the ground of thy sake; in sorrow shalt thou eat *of* it all the day of thy life;
+1. thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field:
+1. in the sweat of thy face shalt thou eat brea, till thou return unto the ground; for out of it wast thou taken: for dust thou *art,* and unto dust shalt thou return.
+1. And {ref}`Adam<WHO_Adam>` called his wife's name {ref}`Eve{WHO_Eve}`; because she was the mother of all living.
+1. Unto {ref}`Adam<WHO_Adam>` also and to his wife di the LORD God make coats of skins, and clothed them.
 (GENESIS_3_22)=
-22. test
-1.
-1.
+22. And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:
+1. therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.
+1. So he drove out the man: and he placed at the east of the garden of Eden cherubim, and a flaming sward which turned every way, to keep the way of the tree of life.
 
 ```{figure} ./../../../imgs/Old/Genesis/Chapter_003/604924001.jpg
 ---
